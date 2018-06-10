@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+}
+.left,.right {
+	min-height: 500px;
+}
+.left {
+	width: 30%;
+	background-color: #5F9EA0;
+}
+.right {
+	width: 70%;
+	background-color: #6495ED;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
